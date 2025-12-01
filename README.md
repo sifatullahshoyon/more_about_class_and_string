@@ -1,0 +1,1 @@
+# more_about_class_and_string
