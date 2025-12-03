@@ -16,6 +16,7 @@ int main(){
     Cricketer* kohli = new Cricketer("India" , 18);
 
     // kohli = dhoni;       // dosn't work
+    
        *kohli = *dhoni;     // perfectly work
 
     // kohli->country = dhoni->country;

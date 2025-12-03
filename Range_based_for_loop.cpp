@@ -8,7 +8,7 @@ int main(){
         cout << s[i] << endl;
     }
     //  short version of for loop
-    for(char c : s) // এই লুপ index নিয়ে কাজ করে না।
+    for(char c : s) // এই লুপ index নিয়ে কাজ করে না। শুধু char নিয়ে কাজ করে।
     {
         cout << c << endl;
     }
